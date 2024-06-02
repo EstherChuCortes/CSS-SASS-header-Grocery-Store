@@ -1,6 +1,7 @@
 # Proyecto HTML con CSS y SASS 🚀
 
-Este proyecto HTML utiliza CSS y SASS para estilizar la página web de una tienda de arroces en línea. A continuación se detallan las secciones y elementos clave del proyecto:
+Este proyecto HTML utiliza CSS y SASS para estilizar la página web de una tienda de arroces en línea. La pagina esta optimizada para pantallas de 
+1200 px de ancho. A continuación se detallan las secciones y elementos clave del proyecto:
 
 ## Estructura del Proyecto  👩‍💻
 
