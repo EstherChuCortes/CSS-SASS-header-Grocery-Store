@@ -31,7 +31,7 @@ Es importante tener en cuenta que este proyecto no es responsive, por lo que no 
 <a href="https://github.com/EstherChuCortes/HTML-CSS-SASS-Grocery-Store" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=VER CODIGO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://estherchucortes.github.io/HTML-CSS-SASS-Grocery-Store/" target="_blank">
+  <a href="https://estherchucortes.github.io/CSS-SASS-header-Grocery-Store/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=VER WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
 
